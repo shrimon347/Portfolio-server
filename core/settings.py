@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-wvx+r4tehgfi+=s+@2$kvno@ewzohg=2@#ys6fdv5^@=c3!rcu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 WEBSITE_URL = 'https://rimon09.pythonanywhere.com'
-ALLOWED_HOSTS = ['https://rimon09.pythonanywhere.com']
+ALLOWED_HOSTS = ['rimon09.pythonanywhere.com']
 CORS_ALLOWED_ORIGINS = [
    "https://rimonmridha.netlify.app",
    "http://localhost:5173",
